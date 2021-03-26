@@ -1,110 +1,65 @@
 #EXTM3U
-#EXTINF:-1, Altered Carbon Temporada 1 
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E01
-hhttps://archive.org/download/ac7_20200305/Alt%20car/ac1.mp4  
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E02" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E02
-https://archive.org/download/ac7_20200305/Alt%20car/ac3.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E03" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E03
-https://archive.org/download/ac7_20200305/Alt%20car/ac4.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E04" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E04
-https://archive.org/download/ac7_20200305/Alt%20car/ac5.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E05" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E05
-https://archive.org/download/ac7_20200305/Alt%20car/ac6.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E06" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E06
-https://archive.org/download/ac7_20200305/Alt%20car/ac7.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E07" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E07
-https://archive.org/download/ac7_20200305/Alt%20car/ac8.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E08" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E08
-https://archive.org/download/ac7_20200305/Alt%20car/ac9.mp4
-#EXTINF:-1, tvg-name=" Altered Carbon S01 E09" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E09
-https://archive.org/download/ac7_20200305/Alt%20car/ac10.mp4
 
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556827.jpg",T01E01 Un rey venido a menos
+https://dl.dropbox.com/s/6czlea1rkpgbozt/124e11ee3bfc419cf90f8b16e103b90f-720p1.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556829.jpg",T01E02 Golpea primero
+https://dl.dropbox.com/s/v82bzpi4ep4oelp/dc51c6347914c9f3d4dbae2d92c6d071-720p2.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556830.jpg",T01E03 Esqueleto
+https://dl.dropbox.com/s/hkvn33ybyf8vs1f/8241967bd08716c9cbe88055a21de0a0-720p3.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556837.jpg",T01E04 Cobra Kai nunca muere
+https://dl.dropbox.com/s/c69nc74rrdldzpy/a0ba6f34f9f3959684220a19a22e402c-720p4.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556838.jpg",T01E05 Contrapeso
+https://dl.dropbox.com/s/ib1nqf6vxj671yz/e8eda8f5631c62267041f36685dcaae9-720p5.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556839.jpg",T01E06 Temblor
+https://dl.dropbox.com/s/81yq0404ld1ux1k/5e0c415c4d357d74965d571951b53735-720p6.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556840.jpg",T01E07 All Valley
+https://dl.dropbox.com/s/rura3uq004uex3z/38498570ab148a29377581a9cb6fc3eb-720p7.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556842.jpg",T01E08 Mudar la piel
+https://dl.dropbox.com/s/70z6zxoimrf1632/33c8c0d63494244ff8c89fec065ea94e-720p8.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556846.jpg",T01E09 Diferente pero igual
+https://dl.dropbox.com/s/it4n4ixitill2t1/fb24cede22ee8e4635f9c1d27ad01bf7-720p9.mp4
+#EXTINF:-1 group-title="Cobra kaia Primera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/6556847.jpg",T01E10 Piedad
+https://dl.dropbox.com/s/ge108917sx4bi9c/4fed3175f9a6dc2e529bd9174936b4c0-720p10.mp4
 
-#EXTINF:-1, Altered Carbon Temporada 2
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E01
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac1.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E02
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac2.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E03
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac3.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E04
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac4.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E05
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac5.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E06
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac6.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E07
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac7.mp4
-#EXTINF:-1, #EXTINF:-1, tvg-name=" Altered Carbon S02 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S02 E08
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac8.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075867.jpg",T02E01 Misericordia Parte II
+https://dl.dropbox.com/s/hc0xtr3vldmk3hk/eb16ea6f76e8acbfc3bd35015aa36818-720p1.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075872.jpg",T02E02 De vuelta en negro
+https://dl.dropbox.com/s/pd4qdutqbteqzs9/cb4fb9f58b774ab4c73d62ac26daa12a-720p2.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075877.jpg",T02E03 Fuego y hielo
+https://dl.dropbox.com/s/motu3nt3ni83a0r/66197c977b5c4555d39fb34d4593c9b2-720p3.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075878.jpg",T02E04 El momento de la verdad
+https://dl.dropbox.com/s/821nwur5vuzhbuh/ccc9bcd2b5a4c7b3e0f035f93b505db2-720p4.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075880.jpg",T02E05 Todo en juego
+https://dl.dropbox.com/s/t61usdif4yx33r2/6ba86297a42b43521b952d8b4fb7d69d-720p5.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075881.jpg",T02E06 Por la derecha
+https://dl.dropbox.com/s/h4cigxfc0j6q523/c51699b9126539f3afb0803ed81c6d25-720p6.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075882.jpg",T02E07 Calma
+https://dl.dropbox.com/s/g8sq3622w7hv76i/4e5b6a5c5e314fc0f55722d5672971c0-720p7.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075884.jpg",T02E08 La gloria del amor
+https://dl.dropbox.com/s/yq5zar7w7p00y2b/384d1866a1cd37c4c5e352e2a56ccac6-720p8.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075886.jpg",T02E09 Pulpo
+https://dl.dropbox.com/s/l2z7vrnd4u3tiga/3767a9788ab394196b77ed18382c16db-720p9.mp4
+#EXTINF:-1 group-title="Cobra kaia Segunda Temporada" tvg-logo="https://artworks.thetvdb.com/banners/episodes/332858/7075889.jpg",T02E10 Sin piedad
+https://dl.dropbox.com/s/601jw5hcvu038pi/9f1762482fed5b27e27aac0cdaabe8f0-720p10.mp4
 
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede29a3d7b.jpg",T03E01 Secuelas	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EQ5BP3HN6vJAj--wVof4ChsBtShXPBT7Uihj9A99iBv5PA?download=1
+#EXTINF:-1 group-title="Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede3b9e8d3.jpg",T03E02 Naturaleza vs. Nutrir	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EYrXjnTaAS5Or8K7ydFwJ60BzEBprN7NWdO09KUsdRyBwA?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede4c83ee1.jpg",T03E03 Ahora vas a pagar	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EaVYe5WRjeNCtAlcWFeELHIB4AfQx__Wv13dyq2Z5JfCWA?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede5dc05ef.jpg",T03E04 El camino correcto	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EZds7G-nJL1Eln-Ys-Yz9R8BY1ZHTPj07Itw2WIX64eOTA?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede70b4674.jpg",T03E05 Miyagi-Do	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EecePEwpNXtAk4UF7M3BhawB7TmtX9wRWBZLrrXJiL1PLg?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede844677f.jpg",T03E06 Rey Cobra	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EYcW14EWML1CrCKdZ_69gyQBbsHH6oiXrrC3zBZIHKyGCw?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feede93e490f.jpg",T03E07 Obstáculos	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EZHue9Nxj-VNvL_TSedsv1gBBwScl7172o06SgJsA2z8gQ?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feedead558f3.jpg",T03E08 El bueno, el malo y el rudo	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EYy8Wpy8ahNKoQ4DhG4Zk7cBRYHNCM-eVHhouDfmnCoprQ?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feedec0851cc.jpg",T03E09 Siente la noche	
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EQtyNvkNuoxDiVmjFl8BWP0B6RhMkk9-CPfuzLK91IReww?download=1
+#EXTINF:-1 group-title="Cobra kaia Tercera Temporada" tvg-logo="https://artworks.thetvdb.com/banners/series/332858/episodes/5feeded790cd3.jpg",T03E10 19 de diciembre
+https://sgnsilr4-my.sharepoint.com/:v:/g/personal/romasnos12_4k5_net/EY7KUOTg5f1CspxwBBx8mUoBBdi9U4NCVr3RhqeTVyTREw?download=1
 
-
-#EXTM3U
-
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E01" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E01
-http://archive.org/download/1x7CDC1_201902/1x1%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E02" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E02
-http://archive.org/download/1x7CDC1_201902/1x2%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E03" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E03
-http://archive.org/download/1x7CDC1_201902/1x3%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E04" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E04
-http://archive.org/download/1x7CDC1_201902/1x4%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E05" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E05
-http://archive.org/download/1x7CDC1_201902/1x5%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E06" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E06
-http://archive.org/download/1x7CDC1_201902/1x6%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E07" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E07
-http://archive.org/download/1x7CDC1_201902/1x7%5BCDC%5D_%281%29.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E08" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E08
-http://archive.org/download/1x7CDC1_201902/1x8%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E09" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E09
-http://archive.org/download/1x7CDC1_201902/1x9%5BCDC%5D_%281%29.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E10" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E10
-http://archive.org/download/1x7CDC1_201902/1x10%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E11" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E11 
-http://archive.org/download/1x7CDC1_201902/1x11%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E12" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E12 
-http://archive.org/download/1x7CDC1_201902/1x12%5BCDC%5D.ogv
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E13" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E13 
-http://archive.org/download/1x7CDC1_201902/1x13%5BCDC%5D.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E14" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E14
-http://archive.org/download/mio47_yopmail_7/1.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E15" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E15 
-http://archive.org/download/mio47_yopmail_7/2.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E16" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E16
-http://archive.org/download/mio47_yopmail_7/3.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E17" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E17
-http://archive.org/download/mio47_yopmail_7/4.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E18" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E18
-http://archive.org/download/mio47_yopmail_7/5.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E19" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E19
-http://archive.org/download/mio47_yopmail_7/6.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E20" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E20
-http://archive.org/download/mio47_yopmail_7/7.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E21" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E21
-http://archive.org/download/mio47_yopmail_7/8.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E22" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E22
-http://archive.org/download/mio47_yopmail_7/9.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E23" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E23
-http://archive.org/download/mio47_yopmail_7/10.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E25" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E25
-http://archive.org/download/mio47_yopmail_7/11.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E26" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E26
-http://archive.org/download/mio47_yopmail_7/12.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E27" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E27
-http://archive.org/download/mio47_yopmail_7/13.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E28" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E28
-http://archive.org/download/mio47_yopmail_7/14.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E29" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E29
-http://archive.org/download/mio47_yopmail_7/15.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E30" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E30
-http://archive.org/download/mio47_yopmail_7/16.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E31" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E31
-http://archive.org/download/mio47_yopmail_7/17.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E32" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E32
-http://archive.org/download/mio47_yopmail_7/18.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E33" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E33
-http://archive.org/download/mio47_yopmail_7/19.mp4
-#EXTINF:-1, tvg-name="Club de Cuervos S01 E34" tvg-logo="#" group-title="Club de Cuervos",Club de Cuervos S01 E34
-http://archive.org/download/mio47_yopmail_7/20.mp4
