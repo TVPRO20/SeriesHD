@@ -1,40 +1,20 @@
-
+#EXTM3U
 #EXTINF:-1, Altered Carbon Temporada 1 
-#EXTINF:-1, Altered Carbon Temporada 1 CAP 1
-tvg-name=" Altered Carbon S01 E01" group-title="Altered Carbon",Altered Carbon S01 E01
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E01
 hhttps://archive.org/download/ac7_20200305/Alt%20car/ac1.mp4  
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 3
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E02" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E02
 https://archive.org/download/ac7_20200305/Alt%20car/ac3.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 4
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E03" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E03
 https://archive.org/download/ac7_20200305/Alt%20car/ac4.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 5
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E04" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E04
 https://archive.org/download/ac7_20200305/Alt%20car/ac5.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 6
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E05" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E05
 https://archive.org/download/ac7_20200305/Alt%20car/ac6.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 7
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E06" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E06
 https://archive.org/download/ac7_20200305/Alt%20car/ac7.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 8
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E07" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E07
 https://archive.org/download/ac7_20200305/Alt%20car/ac8.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 9
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E08" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E08
 https://archive.org/download/ac7_20200305/Alt%20car/ac9.mp4
-#EXTINF:-1, Altered Carbon Temporada 1  CAP 10
+#EXTINF:-1, tvg-name=" Altered Carbon S01 E09" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E09
 https://archive.org/download/ac7_20200305/Alt%20car/ac10.mp4
-
-
-#EXTINF:-1, Altered Carbon Temporada 2
-#EXTINF:-1, Altered Carbon Temporada 2CAP 1
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac1.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 2
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac2.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 3
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac3.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 4
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac4.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 5
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac5.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 6
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac6.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 7
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac7.mp4
-#EXTINF:-1, Altered Carbon Temporada 2CAP 8
-https://archive.org/download/ac7_20200305/Alt%20car%202/ac8.mp4
