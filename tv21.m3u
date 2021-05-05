@@ -509,7 +509,7 @@ https://dl.dropbox.com/sh/pwkq1qvzm7x73hm/AACCpnO7Gc2tdOHnor3mtGa1a/Gotham%20tem
 #EXTINF:-1, tvg-name="GOTHAM S04 E22" tvg-logo="#" group-title="GOTHAM",GOTHAM S04 E22
 https://dl.dropbox.com/sh/pwkq1qvzm7x73hm/AADcCAS-D3KZdGG5dgS5G9cMa/Gotham%20temporada%204/22%20La%20tierra%20de%20nadie.mp4
 
-#EXTINF:-1, TEMPORADA 5#EXTM3U
+#EXTINF:-1, TEMPORADA 5
 #EXTINF:-1, tvg-name="GOTHAM S05 E01" tvg-logo="#" group-title="GOTHAM",GOTHAM S05 E01
 https://dl.dropbox.com/sh/pwkq1qvzm7x73hm/AAAio-rvLFzvvB2oQpxvTT1Oa/Gotham%20temporada%205/1%20A%C3%B1o%20cero.mp4
 #EXTINF:-1, tvg-name="GOTHAM S05 E02" tvg-logo="#" group-title="GOTHAM",GOTHAM S05 E02
@@ -535,4 +535,266 @@ https://dl.dropbox.com/sh/pwkq1qvzm7x73hm/AABc8thyevxLWvO7Gc99iynma/Gotham%20tem
 #EXTINF:-1, tvg-name="GOTHAM S05 E12" tvg-logo="#" group-title="GOTHAM",GOTHAM S05 E12
 https://dl.dropbox.com/sh/pwkq1qvzm7x73hm/AABvXKAjdPcdIyl6tQbDqeNua/Gotham%20temporada%205/12%20El%20comienzo....mp4
 
+
+
+
+#EXTM3U
+#EXTINF:-1,HOW I MEET YOUR MOTHER
+#EXTINF:-1 group-title="Temporada 1"
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E01
+https://archive.org/download/1x20.himymjingking/1x01.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E02" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E02
+https://archive.org/download/1x20.himymjingking/1x02.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E03" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E03
+https://archive.org/download/1x20.himymjingking/1x03.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E04" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E04
+https://archive.org/download/1x20.himymjingking/1x04.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E05" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E05
+https://archive.org/download/1x20.himymjingking/1x05.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E06" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E06
+https://archive.org/download/1x20.himymjingking/1x06.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E07" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E07
+https://archive.org/download/1x20.himymjingking/1x07.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E08" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E08
+https://archive.org/download/1x20.himymjingking/1x08.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E09" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E09
+https://archive.org/download/1x20.himymjingking/1x09.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E10" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E10
+https://archive.org/download/1x20.himymjingking/1x10.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E11
+https://archive.org/download/1x20.himymjingking/1x11.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E12" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E12
+https://archive.org/download/1x20.himymjingking/1x12.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E13" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E13
+https://archive.org/download/1x20.himymjingking/1x13.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E14" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E14
+https://archive.org/download/1x20.himymjingking/1x14.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E15" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E15
+https://archive.org/download/1x20.himymjingking/1x15.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E16" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E16
+https://archive.org/download/1x20.himymjingking/1x16.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E17" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E17
+https://archive.org/download/1x20.himymjingking/1x17.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E18" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E18
+https://archive.org/download/1x20.himymjingking/1x18.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E19" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E19
+https://archive.org/download/1x20.himymjingking/1x19.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E20" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E20
+https://archive.org/download/1x20.himymjingking/1x20.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E21" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E21
+https://archive.org/download/1x20.himymjingking/1x21.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S01 E22" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S01 E22
+https://archive.org/download/met_20200219/1x22.HIMYM.mkv
+
+#EXTM3U
+#EXTINF:-1,HOW I MEET YOUR MOTHER
+#EXTINF:-1 group-title="Temporada 2"
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E01
+https://archive.org/download/cctm_20200220/2x01.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E02" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E02
+https://archive.org/download/cctm_20200220/2x02.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E03" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E03
+https://archive.org/download/cctm_20200220/2x03.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E04" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E04
+https://archive.org/download/cctm_20200220/2x04.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E05" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E05
+https://archive.org/download/cctm_20200220/2x05.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E06" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E06
+https://archive.org/download/cctm_20200220/2x06.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E07" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E07
+https://archive.org/download/cctm_20200220/2x07.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E08" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E08
+https://archive.org/download/cctm_20200220/2x08.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E09" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E09
+https://archive.org/download/cctm_20200220/2x09.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E10" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E10
+https://archive.org/download/cctm_20200220/2x10.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E11
+https://archive.org/download/cctm_20200220/2x11.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E12" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E12
+https://archive.org/download/cctm_20200220/2x12.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E13" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E13
+https://archive.org/download/cctm_20200220/2x13.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E14" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E14
+https://archive.org/download/cctm_20200220/2x14.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E15" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E15
+https://archive.org/download/cctm_20200220/2x15.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E16" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E16
+https://archive.org/download/cctm_20200220/2x16.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E17" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E17
+https://archive.org/download/cctm_20200220/2x17.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E18" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E18
+https://archive.org/download/cctm_20200220/2x18.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E19" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E19
+https://archive.org/download/cctm_20200220/2x19.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E20" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E20
+https://archive.org/download/cctm_20200220/2x20.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E21" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E21
+https://archive.org/download/cctm_20200220/2x21.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S02 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S02 E22
+https://archive.org/download/cctm_20200220/2x22.HIMYM%20-%20JingKing.mkv
+
+
+#EXTM3U
+#EXTINF:-1,HOW I MEET YOUR MOTHER
+#EXTINF:-1 group-title="Temporada 3"
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E01
+https://archive.org/download/buho03/MA%C3%91ANA/buho%2001.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E02" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E02
+https://archive.org/download/buho03/MA%C3%91ANA/buho%2002.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E03" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E03
+https://archive.org/download/buho03/MA%C3%91ANA/buho%2003.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E04" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E04
+https://archive.org/download/buho03/MA%C3%91ANA/buho%2004.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E05" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E05
+https://archive.org/download/buho03/MA%C3%91ANA/buho%2005.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E06" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E06
+https://archive.org/download/buho10/%C3%B1a%C3%B1o/buho%2006.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E07" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E07
+https://archive.org/download/buho10/%C3%B1a%C3%B1o/buho%2007.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E08" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E08
+https://archive.org/download/buho10/%C3%B1a%C3%B1o/buho%2008.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E09" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E09
+https://archive.org/download/buho10/%C3%B1a%C3%B1o/buho%209.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E10" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E10
+https://archive.org/download/buho10/%C3%B1a%C3%B1o/buho%2010.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E11
+https://archive.org/download/buho12/%C3%B1a%C3%B1oo/buho%2011.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E12" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E12
+https://archive.org/download/buho12/%C3%B1a%C3%B1oo/buho%2012.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E13" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E13
+https://archive.org/download/buho12/%C3%B1a%C3%B1oo/buho%2013.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E14" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E14
+https://archive.org/download/buho12/%C3%B1a%C3%B1oo/buho%2014.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E15" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E15
+https://archive.org/download/buho12/%C3%B1a%C3%B1oo/buho%2015.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E16" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E16
+https://archive.org/download/buho16/%C3%B1a%C3%B1ooo/buho%2016.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E17" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E17
+https://archive.org/download/buho16/%C3%B1a%C3%B1ooo/buho%2017.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E18" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E18
+https://archive.org/download/buho16/%C3%B1a%C3%B1ooo/buho%2018.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E19" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E19
+https://archive.org/download/buho16/%C3%B1a%C3%B1ooo/buho%2019.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S03 E20" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S03 E20
+https://archive.org/download/buho16/%C3%B1a%C3%B1ooo/buho%2020.mkv
+
+
+
+#EXTM3U
+#EXTINF:-1,HOW I MEET YOUR MOTHER
+#EXTINF:-1 group-title="Temporada 4"
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E01
+https://archive.org/download/cctm4/4x01.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E02" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E02
+https://archive.org/download/cctm4/4x02.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E03" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E03
+https://archive.org/download/cctm4/4x03.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E04" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E04
+https://archive.org/download/cctm4/4x04.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E05" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E05
+https://archive.org/download/cctm4/4x05.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E06" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E06
+https://archive.org/download/cctm4/4x06.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E07" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E07
+https://archive.org/download/cctm4/4x07.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E08" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E08
+https://archive.org/download/cctm4/4x08.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E09" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E09
+https://archive.org/download/cctm4/4x09.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E10" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E10
+https://archive.org/download/cctm4/4x10.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E11
+https://archive.org/download/cctm4/4x11.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E12" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E12
+https://archive.org/download/cctm4/4x12.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E13" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E13
+https://archive.org/download/cctm4/4x13.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E14" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E14
+https://archive.org/download/cctm4/4x14.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E15" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E15
+https://archive.org/download/cctm4/4x15.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E16" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E16
+https://archive.org/download/cctm4/4x16.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E17
+https://archive.org/download/cctm4/4x17.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E18" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E18
+https://archive.org/download/cctm4/4x18.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E19" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E19
+https://archive.org/download/cctm4/4x19.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E20" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E20
+https://archive.org/download/cctm4/4x20.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E21" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E21
+https://archive.org/download/cctm4/4x21.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E22" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E22
+https://archive.org/download/cctm4/4x22.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E23" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E23
+https://archive.org/download/cctm4/4x23.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S04 E24" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S04 E24
+https://archive.org/download/cctm4/4x24.HIMYM%20-%20JingKing.mkv
+
+
+#EXTM3U
+#EXTINF:-1,HOW I MEET YOUR MOTHER
+#EXTINF:-1 group-title="Temporada 5"
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E01" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E01
+https://archive.org/download/met5_20200223/5x01.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E02" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E02
+https://archive.org/download/met5_20200223/5x02.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E03" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E03
+https://archive.org/download/met5_20200223/5x03.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E04" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E04
+https://archive.org/download/met5_20200223/5x04.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E05" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E05
+https://archive.org/download/met5_20200223/5x05.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E06" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E06
+https://archive.org/download/met5_20200223/5x06.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E07" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E07
+https://archive.org/download/met5_20200223/5x07.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E08" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E08
+https://archive.org/download/met5_20200223/5x08.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E09" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E09
+https://archive.org/download/met5_20200223/5x09.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E10" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E10
+https://archive.org/download/met5_20200223/5x10.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E11" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E11
+https://archive.org/download/met5_20200223/5x11.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E12" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E12
+https://archive.org/download/met5_20200223/5x12.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E13" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E13
+https://archive.org/download/met5_20200223/5x13.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E14" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E14
+https://archive.org/download/met5_20200223/5x14.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E15" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E15
+https://archive.org/download/met5_20200223/5x15.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E16" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E16
+https://archive.org/download/met5_20200223/5x16.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E17" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E17
+https://archive.org/download/met5_20200223/5x17.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E18" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E18
+https://archive.org/download/met5_20200223/5x18.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E19" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E19
+https://archive.org/download/met5_20200223/5x19.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E20" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E20
+https://archive.org/download/met5_20200223/5x20.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E21" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E21
+https://archive.org/download/met5_20200223/5x21.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E22" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E22
+https://archive.org/download/met5_20200223/5x22.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E23" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E23
+https://archive.org/download/met5_20200223/5x23.HIMYM%20-%20JingKing.mkv
+#EXTINF:-1, tvg-name="HOW I MEET YOUR MOTHER S05 E24" tvg-logo="#" group-title="HOW I MEET YOUR MOTHER",HOW I MEET YOUR MOTHER S05 E24
+https://archive.org/download/met5_20200223/5x24.HIMYM%20-%20JingKing.mkv
+
+#EXTINF:-1 group-title="Temporada 6"
+#EXTINF:-1, tvg-logo="https://archive.org/download/portada-himym-7/portada%20himym%206.png",01x05
+
+#EXTINF:-1 group-title="Temporada 7"
+#EXTINF:-1, tvg-logo="https://archive.org/download/portada-himym-7/portada%20himym%207.png",01x05
+
+#EXTINF:-1 group-title="Temporada 8"
+#EXTINF:-1, tvg-logo="https://archive.org/download/portada-himym-7/portada%20himym%208.png",01x05
+
+#EXTINF:-1 group-title="Temporada 9"
+#EXTINF:-1, tvg-logo="https://archive.org/download/portada-himym-7/portada%20himym%209.png",01x05
 
