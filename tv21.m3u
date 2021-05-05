@@ -817,22 +817,6 @@ https://archive.org/download/05_20210320/05.mkv
 #EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E06" tvg-logo="#" group-title="MARVEL LEGENGS S01 E06,Sharon Carter
 https://archive.org/download/05_20210320/06.mkv
 
-#EXTM3U
-#EXTINF:-1,MARVEL LEGENGS
-#EXTINF:-1 group-title="480p"
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E01" tvg-logo="#" group-title="MARVEL LEGENGS S01 E01",Wanda Maximov
-https://archive.org/download/01-final/01%20final.mkv
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E02" tvg-logo="#" group-title="MARVEL LEGENGS S01 E02",Vision
-https://archive.org/download/04-final/02%20final.mkv
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E03" tvg-logo="#" group-title="MARVEL LEGENGS S01 E03",Falcon
-https://archive.org/download/04-final/03%20final.mkv
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E04" tvg-logo="#" group-title="MARVEL LEGENGS S01 E04",The Winter Soldier
-https://archive.org/download/04-final/04%20final.mkv
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E05" tvg-logo="#" group-title="MARVEL LEGENGS S01 E05",Zemo
-https://archive.org/download/04-final/05%20final.mkv
-#EXTINF:-1, tvg-name="MARVEL LEGENGS S01 E06" tvg-logo="#" group-title="MARVEL LEGENGS S01 E06,Sharon Carter
-https://archive.org/download/04-final/06%20final.mkv
-
 
 
 
