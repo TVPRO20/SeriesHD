@@ -1614,3 +1614,37 @@ http://archive.org/download/m-4h-nd-0r-3-8/M4hNd%240r3%20%286%29.mp4
 http://archive.org/download/m-4h-nd-0r-3-8/M4hNd%240r3%20%287%29.mp4
 #EXTINF:-1, tvg-name="THE MANDALORIAN S01 E08" tvg-logo="#" group-title=" THE MANDALORIAN",THE MANDALORIAN S01 E08
 http://archive.org/download/m-4h-nd-0r-3-8/M4hNd%240r3%20%288%29.mp4
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.1 Luz roja luz verde
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E01.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.2 Infierno
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E02.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.3 El hombre del paraguas
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E03.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.4 No abandones el equipo
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E04.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.5 Un mundo justo
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E05.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.6 Gganbu 
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E06.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.7 Los VIPs
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E07.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.8 El líder 
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E08.mp4
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.wallpapersun.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpeg", El juego del calamar | Cap.9 Un día de suerte
+http://201.172.61.203:88/Series/1%20sepiembre%20-%20octubre/El%20juego%20del%20calamar/T1/S01E09.mp4
